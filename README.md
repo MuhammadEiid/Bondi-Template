@@ -1,5 +1,5 @@
 
-# Bondi Portfolio Landing Page
+# DeFolio Landing Page
 
 ## IDE:
 - VS Code
